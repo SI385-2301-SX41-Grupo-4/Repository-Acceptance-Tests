@@ -11,3 +11,5 @@ Given el usuario aún no se encuentra registrado
 And se encuentre en el formulario de registro de la aplicación
 When presione el botón “Registrar con cuenta de red social”
 Then instantáneamente se crea una cuenta en la aplicación con los datos de la cuenta de la red social seleccionada
+
+
