@@ -13,3 +13,4 @@ When presione el botón “Ascender a membresía premium"
 And registre los datos de pago como número de tarjeta, día/fecha, CVV, nombre/apellido y correo electrónico
 And presione el botón “Confirmar pago”
 Then si el pago no fue realizado con éxito, la aplicación mostrará en pantalla “Ups. Ocurrió un error al registrar el pago. Inténtalo nuevamente”
+

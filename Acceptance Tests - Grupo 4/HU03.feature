@@ -11,3 +11,4 @@ Given el usuario registrado se encuentra en la aplicación
 And requiere diseñar nuevos pictogramas
 When presione el botón “Diseñar pictogramas”
 Then instantáneamente se tendrá acceso a una variedad de herramientas de diseño de pictogramas disponibles únicamente para este tipo de miembros
+

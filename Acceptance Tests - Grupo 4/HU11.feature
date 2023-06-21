@@ -12,3 +12,4 @@ Given el docente o cuidador especializado quiere tiene activado la opción de pa
 When el sistema detecte que la suscripción a la membresía esta próxima a vencer 
 And el sistema tenga almacenado información de pago previamente registrada
 Then el sistema accederá a dicha información y generará automáticamente una re suscripción a la membresía premium, que instantáneamente será notificada al correo del usuario
+

@@ -10,3 +10,4 @@ Scenario: Notificaciones de la aplicación desactivadas
 Given el padre de familia no tiene activadas las notificaciones de la aplicación
 When el sistema detecte alguna oferta relacionada a la membresía premium
 Then el sistema no podrá enviar notificaciones a tiempo real al dispositivo móvil del usuario
+

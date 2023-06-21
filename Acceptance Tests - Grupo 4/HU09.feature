@@ -11,3 +11,4 @@ Given el padre de familia tiene una cuenta de membresía premium ya registrada e
 When quiera hacer lectura de un pictograma presente en su catálogo personal
 And presione el botón de “Configuraciones Avanzadas de Lectura”
 Then el sistema mostrará automáticamente un apartado que permitirá el acceso ilimitado a configuraciones personalizadas que dispondrá de 4 voces artificiales a más para la lectura de los pictogramas
+

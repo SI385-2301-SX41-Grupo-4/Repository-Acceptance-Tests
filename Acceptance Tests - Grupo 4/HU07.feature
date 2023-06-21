@@ -11,3 +11,4 @@ Given el niño o joven consume mucho tiempo en la búsqueda de pictogramas que u
 When ingrese al apartado de “Catalogo de pictogramas”
 And presione la opción de “Pictogramas preferidos”
 Then el sistema mostrará automáticamente todos los pictogramas preferidos almacenados por el usuario según su tipo de membresía
+

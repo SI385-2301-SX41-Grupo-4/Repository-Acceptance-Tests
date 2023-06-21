@@ -11,3 +11,4 @@ Given el padre de familia se acaba de registrar en el aplicativo
 And este iniciando sesión en su respectiva membresía
 When este en la interfaz principal de la aplicación
 Then se mostrará automáticamente una ventana superpuesta respecto al uso del aplicativo para nuevos usuarios dentro del aplicativo
+

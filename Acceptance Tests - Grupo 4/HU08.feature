@@ -11,3 +11,4 @@ Given el padre de familia tiene una cuenta con membresía premium ya registrada 
 When quiera mejorar un pictograma ya existente dentro de su catálogo personal
 And presione la opción de “Mejorar pictograma”
 Then el sistema mostrará automáticamente un apartado que dispondrá de una gran variedad de herramientas que permitan mejorar el pictograma que el usuario desee presentes en su catálogo
+

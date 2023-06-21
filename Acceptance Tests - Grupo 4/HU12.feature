@@ -11,3 +11,4 @@ Given el padre de familia registró una nueva palabra dentro de la aplicación
 When presione levemente la palabra subrayada con una línea roja
 And presione la opción de “Guardar”
 Then la aplicación procederá a guardarla automáticamente dentro del catálogo de vocabulario que presenta el usuario para próximos usos
+

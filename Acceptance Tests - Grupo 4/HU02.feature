@@ -11,3 +11,4 @@ Given el usuario registrado tiene un dispositivo Android o iOS y se encuentra en
 And requiere hacer uso del aplicativo
 When ingrese al aplicativo y comience a usarlo
 Then automáticamente se tendrá acceso a los pictogramas dinámicos según corresponda al tipo de membresía
+
